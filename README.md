@@ -4,8 +4,13 @@ The objective of my project is to design, assemble, and implement a mobile robot
 The following components were used:
 
 Mini robot chassis and wheel motors
+
 Arduino Uno R8 development board
+
 L298N motor driver module
+
 6 V battery
+
 DC-DC step-up/down voltage converter
+
 HC-SR04 ultrasonic distance sensor
