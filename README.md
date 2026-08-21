@@ -1,17 +1,53 @@
-# Mauwa-1
-The documentation and secure of my Elektro-Roboter Project.
+# Autonomous Mobile Robot
 
-The objective of my project is to design, assemble, and implement a mobile robot capable of collecting data and performing various tasks in an autonomous and intelligent manner.
-The following components were used:
+ 
 
-Mini robot chassis and wheel motors
+## Project Description
 
-Arduino Uno R8 development board
+This project consists of the assembly and implementation of a mobile robot designed to collect data and perform various tasks autonomously and intelligently.
 
-L298N motor driver module
+ 
 
-6 V battery
+## Hardware Components
 
-DC-DC step-up/down voltage converter
+- Arduino Uno R8
 
-HC-SR04 ultrasonic distance sensor
+- L298N Motor Driver
+
+- HC-SR04 Ultrasonic Sensor
+
+- Mini Robot Chassis and DC Motors
+  
+- 6V Battery
+  
+- DC-DC Step-Up/Step-Down Converter
+  
+ 
+
+## Features
+
+- Autonomous navigation
+  
+- Obstacle detection using ultrasonic sensing
+  
+- Obstacle avoidance
+  
+- Real-time distance measurement
+  
+ 
+
+## Software Logic
+
+1. Measure the distance to obstacles.
+
+2. Move forward when the detected distance is greater than 20 cm.
+
+3. Stop, reverse, and turn right when an obstacle is detected within 20 cm.
+
+4. Repeat the process continuously.
+
+ 
+
+## Author
+
+Aryl Warren Djiengoue Tchuegoue
