@@ -18,9 +18,16 @@ This project consists of the assembly and implementation of a mobile robot desig
 
 - Mini Robot Chassis and DC Motors
 
+
 - 6V Battery
 
 - DC-DC Step-Up/Step-Down Converter
+
+  
+- 6V Battery
+  
+- DC-DC Step-Up/Step-Down Converter
+  
 
  
 
@@ -28,11 +35,20 @@ This project consists of the assembly and implementation of a mobile robot desig
 
 - Autonomous navigation
 
+
 - Obstacle detection using ultrasonic sensing
 
 - Obstacle avoidance
 
 - Real-time distance measurement
+
+  
+- Obstacle detection using ultrasonic sensing
+  
+- Obstacle avoidance
+  
+- Real-time distance measurement
+  
 
  
 
@@ -50,4 +66,8 @@ This project consists of the assembly and implementation of a mobile robot desig
 
 ## Author
 
+
 Aryl Warren Djiengoue Tchuegoue
+
+Aryl Warren Djiengoue Tchuegoue
+
