@@ -69,5 +69,5 @@ This project consists of the assembly and implementation of a mobile robot desig
 
 Aryl Warren Djiengoue Tchuegoue
 
-Aryl Warren Djiengoue Tchuegoue
+
 
