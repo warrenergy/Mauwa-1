@@ -1,5 +1,6 @@
 # Mauwa-1
-The documentation and secure of my Elektro-Roboter Project
+The documentation and secure of my Elektro-Roboter Project.
+
 The objective of my project is to design, assemble, and implement a mobile robot capable of collecting data and performing various tasks in an autonomous and intelligent manner.
 The following components were used:
 
