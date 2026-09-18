@@ -1,12 +1,12 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <SoftwareSerial.h>
+#include <secrets.h>
+
 ESP8266WebServer server(80);
 SoftwareSerial wifiSerial(7, A0);
 SoftwareSerial arduinoSerial(D2, D1);
 
-const char* ssid = "FluenceMobile";
-const char* password = "GridStack2021";
 
 void setup() {
   Serial.begin(115200);
